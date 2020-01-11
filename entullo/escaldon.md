@@ -5,8 +5,8 @@ Escaldón de verduras y gofio.
 Cantidad: 4 platos, depende del hambre.
 
 Tiempo de preparación: 15 min.
-Tiempo de cocción: 45 min.
-Tiempo total: 60 min.
+Tiempo de cocción: 65 min.
+Tiempo total: 80 min.
 
 ## Ingredientes
 
